@@ -19,7 +19,7 @@ img {
 
 body {
     font-family: 'Outfit', sans-serif;
-    font-size: 15px;
+    font-size: 0.6rem;
     background-color: var(--light-gray);
     display: flex;
     flex-direction: column;
@@ -45,7 +45,8 @@ body {
 .container h1 {
     color: var(--dark-blue);
     text-align: center;
-    margin-bottom: 1rem;
+    margin-bottom: 3rem;
+    margin-top: 1rem;
 }
 
 .container p {
@@ -54,7 +55,7 @@ body {
 }
 
 .attribution {
-    font-size: 14px;
+    font-size: 0.875rem;
     text-align: center;
 }
 
